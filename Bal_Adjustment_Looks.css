@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloock&display=swap');
+
+
+
+.BalanceAdjustment {
+  background-color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  justify-content: center;
+  font-size: 40px;
+  color: black;
+  font-family: 'Gloock', serif;
+  letter-spacing: 3px;
+  
+}
+h1{
+  background:linear-gradient(
+    to bottom, transparent 50%, green 50%
+  )
+}
+
+h2{
+  font-size: small;
+
+}
+
+
+
+
+input{
+  width: fit-content;
+}
+
